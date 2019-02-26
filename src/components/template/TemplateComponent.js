@@ -22,7 +22,7 @@ export default class TemplateComponent extends Component {
   // componentDidUpdate = () => {}
   // componentWillUnmount = () => {}
 
-  // fnEventHandlerWithoutBind = (e) => (param) => {}
+  // fnEventHandlerWithoutBind = (params) => (e) => {}
   // fnRegular = () => { this.setState((prevState, currProps) => ({})) }
 
   render () {

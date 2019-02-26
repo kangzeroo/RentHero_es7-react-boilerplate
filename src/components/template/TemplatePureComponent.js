@@ -22,7 +22,7 @@ export default class TemplatePureComponent extends PureComponent {
   // componentDidUpdate = () => {}
   // componentWillUnmount = () => {}
 
-  // fnEventHandlerWithoutBind = (e) => (param) => {}
+  // fnEventHandlerWithoutBind = (param) => (e) => {}
   // fnRegular = () => { this.setState((prevState, currProps) => ({})) }
 
   render () {
